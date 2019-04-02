@@ -17,8 +17,10 @@ const mazda = new Car ("3", 2005, "Mazda");
 const tesla = new Car ("Model 3", 2020, "Tesla");
 
 // Prints "Tesla" to the console
+console.log(tesla.make);
 
 // Prints 2017 to the console
+console.log(prius.year);
 
 // Prints "3" to the console
-
+console.log(mazda.name);
